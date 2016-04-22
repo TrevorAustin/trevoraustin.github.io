@@ -13,6 +13,8 @@ Building software is creative work, and to get the best results you have to give
 
 Civis Analytics Monthly Lightning Talks - Thursday March 24, 2016
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When you present about Getting to Yes at <a href="https://twitter.com/CivisAnalytics">@CivisAnalytics</a>, you say things like: &quot;You can think of Interests as n-dimensional vectors ...&quot;</p>&mdash; Trevor Austin (@TrevAustin) <a href="https://twitter.com/TrevAustin/status/714476825364275200">March 28, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Negotiations are everywhere - not just the zero-sum haggling that people, especially introverted engineers, hate and fear. A very brief introduction to recognizing negotiations and guide to moving past parties' positions to their underlying interests. Based on materials from _Getting to Yes_ and the [Harvard Program on Negotiation](http://www.pon.harvard.edu).
 
 <iframe src="https://docs.google.com/presentation/d/1tNcT0bSAZZlGN9fbYRBRKhRPBkHdHNFnzEsAo3pwKw8/embed?start=false&loop=false&delayms=15000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
